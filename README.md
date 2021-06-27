@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LucasGarcia07](https://github.com/LucasGarcia07)
 
-- 💬 Ask me about **julia/python/reinforcement learning**
+- 💬 Ask me about **Julia, Python, Machine learning and Reinforcement learning**
 
 - 📫 How to reach me **lucasgarciamj@gmail.com**
 
