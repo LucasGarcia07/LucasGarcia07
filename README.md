@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">A fullstack developer from brazil</h3>
+<h3 align="center">A data engineer from brazil</h3>
 
-- 🔭 I’m currently working on [simple-simple-raft](https://github.com/LucasGarcia07/simple-simple-raft)
+- 🔭 I’m currently working as intern in Hurb
 
-- 🌱 I’m currently learning **react/react native and redux**
+- 🌱 I’m currently learning **Airflow and Apache beam**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LucasGarcia07](https://github.com/LucasGarcia07)
 
-- 💬 Ask me about **Julia, Python, Machine learning and Reinforcement learning**
+- 💬 Ask me about **Julia, Python, SQL, ML and Data engineering**
 
 - 📫 How to reach me **lucasgarciamj@gmail.com**
 
