@@ -3,7 +3,7 @@
 
 - 🏢 I’m currently working at **Hurb**
 
-- 🌱 I’m currently learning **Airflow and Apache beam**
+- 🌱 I’m currently learning **Terraform and kubernets**
 
 - 👨‍💻 All of my projects are available at [[https://github.com/LucasGarcia07](https://github.com/LucasGarcia07)]
 
