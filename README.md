@@ -3,11 +3,11 @@
 
 - 🏢 I’m currently working at **Hurb**
 
-- 🌱 I’m currently learning **Terraform and kubernets**
+- 🌱 I’m currently learning **Data Governance and Machine Learning RCA**
 
 - 👨‍💻 All of my projects are available at [[https://github.com/LucasGarcia07](https://github.com/LucasGarcia07)]
 
-- 💬 Ask me about **julia, python, SQL, ML and Data engineering**
+- 💬 Ask me about **Airflow, Terraform, Dataform, Python and SQL**
 
 - 📫 How to reach me **lucasgarciamj@gmail.com**
 
